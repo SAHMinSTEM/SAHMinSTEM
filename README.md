@@ -8,6 +8,7 @@ I'd like to describe myself as an aspiring technical writer passionate about lea
 - ⚡Fun fact: During my 3-year stint at Deloitte, I contributed to the markup and content of a Knowledge Management Repository for the Bureau of Engraving and Printing.
 ## Where to Find me
 ✍🏾 Writing on <a href="https://medium.com/@LifeReloaded"> Medium <a>
+<b> </b>
 💼 Occasionally on <a href=  "https://www.linkedin.com/in/katszeleke/"> LinkedIn <a>
 
 

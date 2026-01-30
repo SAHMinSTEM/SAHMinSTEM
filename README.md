@@ -1,5 +1,10 @@
-# 👋Hello, I'm Kathy!
-<img width="300" height="300" alt="Octocat-Avatar" src="https://github.com/user-attachments/assets/3e0f32d8-cbfa-4c28-8fa4-c03aedcf6ccd" />
+<div id="header" align="center">
+  <h1>
+👋Hello, I'm Kathy! 
+   
+</h1>
+</div>
+<img width="300" height="300" align="center" alt="Octocat-Avatar" src="https://github.com/user-attachments/assets/3e0f32d8-cbfa-4c28-8fa4-c03aedcf6ccd" />
 <br>
 A stay‑at‑home mom and aspiring developer learning how to turn real family pain points into practical projects for schedules, finances, and everyday household chaos.<br>Here are somethings to know about me:<br><br>🗒️I'm looking forward to contributing to open source documentation here on GitHub.<br>💻I enjoy learning new skills such as ethical hacking, just for fun!<br>⚡Fun fact: During my 3-year stint at Deloitte, I contributed to the markup and content of a Knowledge Management Repository for the Bureau of Engraving and Printing. It brings joy to my heart knowing people used it for daily operations.<br>
 

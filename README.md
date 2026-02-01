@@ -1,4 +1,4 @@
-
+<!-- H1 Header-->
 <div id="header" align="center">
   <h1>
 👋Hello, I'm Kathy! 
@@ -6,13 +6,15 @@
 </h1>
 </div>
 
+<!-- Octocat image-->
 <div align="center">
 <img width="300" height="300" align="center" alt="Octocat-Avatar" src="https://github.com/user-attachments/assets/3e0f32d8-cbfa-4c28-8fa4-c03aedcf6ccd" />
-  
+
+ <!--About Me--> 
 <br>
 A stay‑at‑home mom and aspiring developer learning how to turn real family pain points into practical projects for schedules, finances, and everyday household chaos.<br>Here are somethings to know about me:<br><br>🗒️I'm looking forward to contributing to open source documentation here on GitHub.<br>💻I enjoy learning new skills such as ethical hacking, just for fun!<br>⚡Fun fact: During my 3-year stint at Deloitte, I contributed to the markup and content of a Knowledge Management Repository for the Bureau of Engraving and Printing. It brings joy to my heart knowing people used it for daily operations.<br>
 
-
+<!-- Social Media-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katszeleke) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@LifeReloaded) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/lifeReloaded23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://www.katsarriola18@gmail.com) 
 

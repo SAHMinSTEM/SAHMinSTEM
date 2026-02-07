@@ -23,10 +23,18 @@ A stay‑at‑home mom and aspiring developer learning how to turn real family p
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SAHMinSTEM&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SAHMinSTEM&theme=default_repocard&hide_border=false)<br/>
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHMinSTEM&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SAHMinSTEM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+[Yes, you should go down that rabbit hole](https://medium.com/@LifeReloaded/yes-you-should-go-down-that-rabbit-hole-2b011103f386)
+
 
 </div>
 

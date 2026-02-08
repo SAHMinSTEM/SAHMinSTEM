@@ -33,7 +33,9 @@ A stay‑at‑home mom and aspiring developer learning how to turn real family p
 
 # :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-[Yes, you should go down that rabbit hole](https://medium.com/@LifeReloaded/yes-you-should-go-down-that-rabbit-hole-2b011103f386)
+- [Yes, you should go down that rabbit hole](https://medium.com/@LifeReloaded/yes-you-should-go-down-that-rabbit-hole-2b011103f386)
+  <br>
+- [How Writing goes beyond the Resume](https://medium.com/@LifeReloaded/how-writing-goes-beyond-the-resume-14f08730694f) 
 
 
 </div>

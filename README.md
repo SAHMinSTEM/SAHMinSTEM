@@ -36,7 +36,8 @@ A stay‑at‑home mom and aspiring developer learning how to turn real family p
 - [Yes, You should go down that Rabbit Hole](https://medium.com/@LifeReloaded/yes-you-should-go-down-that-rabbit-hole-2b011103f386)
   <br>
 - [How Writing goes beyond the Resume](https://medium.com/@LifeReloaded/how-writing-goes-beyond-the-resume-14f08730694f)
-- 
+  <br>
+- [AI through the lens of a Parent](https://medium.com/@LifeReloaded/ai-through-the-lens-of-a-parent-4a18a97dcfba)
 
 
 </div>

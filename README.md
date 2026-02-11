@@ -38,7 +38,7 @@ A stay‑at‑home mom and aspiring developer learning how to turn real family p
 - [How Writing goes beyond the Resume](https://medium.com/@LifeReloaded/how-writing-goes-beyond-the-resume-14f08730694f)
   <br>
 - [AI through the lens of a Parent](https://medium.com/@LifeReloaded/ai-through-the-lens-of-a-parent-4a18a97dcfba)
-
+<!-- LIST END -->
 
 </div>
 

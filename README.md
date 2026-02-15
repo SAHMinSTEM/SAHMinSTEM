@@ -39,6 +39,8 @@ A stay‑at‑home mom and aspiring developer learning how to turn real family p
   <br>
 - [AI through the lens of a Parent](https://medium.com/@LifeReloaded/ai-through-the-lens-of-a-parent-4a18a97dcfba)
   <br>
+- [The Hidden Messages of AI Toys](https://medium.com/p/14e61e6ffa29)
+  <br>
 - [What I realized after working at a Consulting Firm](https://medium.com/activated-thinker/what-i-realized-after-working-at-a-consulting-firm-0f6895296e9c)
 <!-- LIST END -->
 

@@ -8,7 +8,7 @@
 
 <!-- Octocat image-->
 <div align="center">
-<img width="300" height="300" align="center" alt="Octocat-Avatar" src="https://github.com/user-attachments/assets/3e0f32d8-cbfa-4c28-8fa4-c03aedcf6ccd" />
+<img width="350" height="350" align="center" alt="Octocat-Avatar" src="https://github.com/user-attachments/assets/3e0f32d8-cbfa-4c28-8fa4-c03aedcf6ccd" />
 
  <!--About Me--> 
 <br>
